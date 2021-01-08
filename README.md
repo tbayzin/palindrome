@@ -1,1 +1,1 @@
-Palindrome in JS (simplest)
+Palindrome in JS (simplest way)
